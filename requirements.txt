@@ -1,0 +1,11 @@
+torch
+torchvision
+tqdm
+numpy
+opencv-python
+mediapipe
+pillow
+streamlit
+streamlit-webrtc
+av
+pyautogui 
